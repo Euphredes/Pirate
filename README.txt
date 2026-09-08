@@ -17,7 +17,7 @@ Location: Philadelphia, PA.
            -------- 
 
 Introduction                         - 
-Protection                           II. 
-Love                                 IX. 
-Trials                               XVIII. 
-Loyalty                              XXXIV. 
+Northeast                            II. 
+Hudson                               IX. 
+Delaware                             XVIII. 
+Chesapeake                           XXXIV. 
