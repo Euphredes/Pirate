@@ -1,7 +1,7 @@
 
 
            PIRATE 
-           A DISTRIBUTION 
+           A DISTRIBUTOR 
 
 
            Publishing 
