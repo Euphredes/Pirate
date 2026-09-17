@@ -4,6 +4,9 @@
            A DISTRIBUTOR 
 
 
+           A BOOK FOR THE HOMELESS 
+
+
            Publishing 
 
 Licensing: Content in this text file 
@@ -11,8 +14,9 @@ Licensing: Content in this text file
            Commons Attribution 4.0 
            International license. 
 Author: Nick Morris. 
-Release: Tuesday, September 8th 2026. 
-Location: Philadelphia, PA. 
+Age: 33 Years Old. 
+Release: Thursday, September 17th 2026. 
+Location: Cherry Hill, NJ. 
 
            ------ 
            Pirate 
