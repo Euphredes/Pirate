@@ -19,7 +19,7 @@ Licensing: Content in this text file
            International license. 
 Author: Nick Morris. 
 Age: 33 Years Old. 
-Release: Thursday, September 17th 2026. 
+Release: Friday, September 18th 2026. 
 Location: Cherry Hill, NJ. 
 
            ------ 
@@ -29,66 +29,18 @@ Location: Cherry Hill, NJ.
            Contents 
 
 Introduction 
-Stores 
-Drops 
-Breaks 
-Library 
 
            Introduction 
            ------------ 
 
-           Review 
+           Card 
 
-What is it? 
-Who is it for? 
-Where has it been? 
-Where is it going? 
-How is it done in two parts? 
-
-           Storyline 
-
-Opponent 
- Maslow's Pyramid 
-Game 
- Heist 
-Monster 
- Penal Colony 
-Outward 
- Physical Adventure 
-Inward 
- Obstacle Course 
-
-           Approach 
-
-Problem 
- Slitherlink Knapsack 
-Sets 
- Destinations 
- Traps 
- Items 
- Storages 
-Solver 
- Greedy 
-
-           Responsibilities 
-
-Mentally 
- Silence 
-Physically 
- Momentum 
-Spiritually 
- Focus 
-
-           Virtues 
-
-1. All generosity begins with theft. 
-2. Good luck, after rejecting me. 
-3. Make information commonplace. 
-4. Count the issues. Disregard blame. 
-5. Leave the issues. They may change. 
-
-           * * * 
-
+You, Game Warden, walk into a store 
+with a card that doesn't pay. You get 
+through the register, failing. You 
+leave that store. That satisfies the 
+endtoend process of every store, for 
+customers. 
 
            ***** 
             *** 
